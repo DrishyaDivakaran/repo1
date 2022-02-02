@@ -7,6 +7,7 @@ public class Pratice1 {
 	public void demoGit()
 	{
 		System.out.println("this is user 1 first commit");
+		System.out.println("hai");
 	}
 
 }
